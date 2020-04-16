@@ -1,0 +1,6 @@
+{
+    "subscription_id": "<id>",
+    "resource_group": "rg-azureml",
+    "workspace_name": "azure-ml-hudua",
+    "location": "westus2"
+}
